@@ -67,7 +67,7 @@ export const Header = () => {
         <div className="container mx-auto px-4 flex flex-wrap justify-between items-center gap-4">
           <div className="flex items-center gap-4">
             <img
-              src="public/images/og-image-removebg-preview.png"
+              src="images/og-image-removebg-preview.png"
               alt="Saint Manuel Complex School"
               className="h-16 w-auto"
             />
