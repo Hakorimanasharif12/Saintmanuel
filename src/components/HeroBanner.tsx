@@ -12,22 +12,22 @@ import type { CarouselApi } from "./ui/carousel";
 
 const slides = [
   {
-    image: "public/images/download (1).jpeg",
+    image: "images/download (1).jpeg",
     title: "Our Campus",
     description: "Modern facilities for quality education"
   },
   {
-    image: "public/images/download (9).jpeg",
+    image: "images/download (9).jpeg",
     title: "Computer Labs",
     description: "State-of-the-art technology for digital learning"
   },
   {
-    image: "public/images/download (1).jpeg",
+    image: "images/download (1).jpeg",
     title: "Student Activities",
     description: "Engaging in traditional dance and cultural events"
   },
   {
-    image: "public/images/download (2).jpeg",
+    image: "images/download (2).jpeg",
     title: "Library",
     description: "Extensive collection of educational resources"
   },
